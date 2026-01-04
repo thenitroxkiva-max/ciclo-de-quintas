@@ -1,0 +1,7 @@
+{
+  "name": "Mandala Harmônica",
+  "description": "Um explorador interativo do ciclo de quintas com visualização de mandalas, síntese de som em tempo real e lições de harmonia.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
